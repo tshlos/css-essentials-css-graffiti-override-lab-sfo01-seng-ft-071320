@@ -75,10 +75,10 @@ body div#wall div.parent div > #tag-7.slick {
     display: none;
 }
 
-#wall #tag-2 {
+div#wall div#tag-2 {
     background-image: none;
 }
 
-#wall #tag-3 .slick .wicked {
+div#wall div#tag-3 .slick .wicked {
     background-image: none;
 }
